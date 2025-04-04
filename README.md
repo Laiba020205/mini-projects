@@ -14,7 +14,7 @@
 Hey! I'm **Laiba**, a Computer Engineering student who loves building cute, clever, and interactive web projects 💕  
 I learn best by doing — and this repo is proof of that!
 
-- 💌 [LinkedIn](www.linkedin.com/in/laiba-shaikh-)
+- 💌 [LinkedIn](https://www.linkedin.com/in/laiba-shaikh-88a369277/)
 - 🐱 [GitHub](https://github.com/Laiba020205)
 - 🌐 [My Portfolio (coming soon!)](#)
 
